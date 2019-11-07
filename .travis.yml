@@ -13,6 +13,6 @@ cache:
 deploy:
  provider: heroku
  api_key:
- secure: b28f29c3-f207-40ee-8d85-0a1604784a96
- app: MyServerlet
+  secure: b28f29c3-f207-40ee-8d85-0a1604784a96
+ app: myserverlet
  skip_cleanup: true
